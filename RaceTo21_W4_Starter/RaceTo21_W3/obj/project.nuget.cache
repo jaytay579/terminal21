@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TOw+RFOuBlvm9Du/UpxLXddPLoSqC40VQOSqwJthjnOCvv9TgznYjhQQWfEdU2ZK6/dL+cEP2ny1vVfPF99CA==",
+  "success": true,
+  "projectFilePath": "/Users/jay/Library/CloudStorage/Dropbox/DGM6308_Winter2024/2023/RaceTo21_W4_Starter/RaceTo21_W3/RaceTo21.csproj",
+  "expectedPackageFiles": [
+    "/Users/jay/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/jay/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
